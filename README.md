@@ -1,0 +1,2 @@
+# JNIDemo
+build JNI  demo
